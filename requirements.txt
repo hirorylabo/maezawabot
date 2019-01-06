@@ -1,0 +1,5 @@
+git+https://github.com/alekxeyuk/temp-mail
+random_password
+selenium
+webdriver_manager
+gimei
